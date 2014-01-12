@@ -4,7 +4,7 @@ import gr.ntua.imu.fillbasket.recommender.Recommender;
 
 /**
  *
- * User: Kostas  Christidis
+ * User: Kostas Christidis
  *
  */
 public class AssociationRuleRecommender implements Recommender {
