@@ -13,5 +13,6 @@ import java.util.HashMap;
  * To change this template use File | Settings | File Templates.
  */
 public interface Source {
-    HashMap<Integer, ItemSet> getItemSets() throws IOException;
+    HashMap<Integer, ItemSet> getItemSets();
+    void readItemSets() throws IOException;
 }
